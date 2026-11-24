@@ -32,6 +32,9 @@ I build with AI coding agents and say so: commits carry a `Co-Authored-By` line.
 I own the problem framing, architecture, data rules and tests; agents write much of the code under them,
 and every result is checked against the data.
 
+Most of my work lives in private repositories on my university's GitLab;
+that activity is mirrored to my contribution graph as date-only commits.
+
 ## More
 
 [CV](cv.md) · full CV on request via the email on my GitHub profile
